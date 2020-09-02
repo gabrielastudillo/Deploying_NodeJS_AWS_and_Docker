@@ -20,5 +20,5 @@ I am using the Cloud9 envirnment in AWS as its provides an IDE and most of the r
  #3. Check Docker
  Chek if Docker is installed on your system (including Docker Engine and Docker CLI Client). To check if the installation worked, run this command in the terminal:
  
- $ docker --version
+    $ docker --version
  
